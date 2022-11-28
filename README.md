@@ -1,3 +1,3 @@
-## Nportfolio
-# Editing repository
+# Nportfolio
+## Editing repository
 It's a markdown file in this repository
